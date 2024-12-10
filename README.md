@@ -17,5 +17,4 @@ Detection of markers:
 * Only the instruments(markers) detected by the camera will be played, and rest will be muted. 
 * All four markers combined makes up the whole song.
 
-#### [_Play here >>_](https://anuragreacts.github.io/AR-Music-App/) 
 
